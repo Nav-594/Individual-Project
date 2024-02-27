@@ -19,8 +19,6 @@ This is my submission for the CS3010 Final Year Project (Dissertation) at Aston 
 **Future improvements:**
 
 * Implement rounds and scoring system
-* Differentiate roles between drawer and guesser
 * Enhance user interface (UI) elements
 * Add mobile browser compatibility
-* Deploy to a web server
 
